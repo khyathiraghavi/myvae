@@ -1,0 +1,6 @@
+
+pip install torchtext
+
+
+python -m spacy download en
+
